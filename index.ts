@@ -45,6 +45,7 @@ const testFunction = () => {
   const instanceB: SystemB = new SystemB();
   const instanceC: SystemC = new SystemC();
 
+  // Can hide all complexity using this function
   const testFacade: FacadeClass = new FacadeClass(
     instanceA,
     instanceB,
