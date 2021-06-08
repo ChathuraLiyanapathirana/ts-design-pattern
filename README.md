@@ -1,3 +1,3 @@
-# ts-dp-singleton
+# TypeScript Design Pattern Examples
 
 [Visit ⚡️](https://appcitor.com)
