@@ -1,3 +1,3 @@
 # TypeScript Design Pattern Examples
 
-[Visit ⚡️](https://appcitor.com)
+[Visit Appcitor.com⚡️](https://appcitor.com)
